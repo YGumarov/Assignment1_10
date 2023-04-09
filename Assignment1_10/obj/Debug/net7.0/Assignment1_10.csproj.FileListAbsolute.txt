@@ -1,0 +1,15 @@
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\bin\Debug\net7.0\Assignment1_10.exe
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\bin\Debug\net7.0\Assignment1_10.deps.json
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\bin\Debug\net7.0\Assignment1_10.runtimeconfig.json
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\bin\Debug\net7.0\Assignment1_10.dll
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\bin\Debug\net7.0\Assignment1_10.pdb
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\obj\Debug\net7.0\Assignment1_10.csproj.AssemblyReference.cache
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\obj\Debug\net7.0\Assignment1_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\obj\Debug\net7.0\Assignment1_10.AssemblyInfoInputs.cache
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\obj\Debug\net7.0\Assignment1_10.AssemblyInfo.cs
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\obj\Debug\net7.0\Assignment1_10.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\obj\Debug\net7.0\Assignment1_10.dll
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\obj\Debug\net7.0\refint\Assignment1_10.dll
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\obj\Debug\net7.0\Assignment1_10.pdb
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\obj\Debug\net7.0\Assignment1_10.genruntimeconfig.cache
+C:\Users\Администратор\RiderProjects\Assignment1_10\Assignment1_10\obj\Debug\net7.0\ref\Assignment1_10.dll
